@@ -42,6 +42,19 @@ namespace Calculator_for_GitHub
             if(mitvalg.KeyChar=='2')
             {
                 Console.Clear();
+                Console.WriteLine("You have now chosen to subtract two digits from eachother");
+                Console.WriteLine();
+                Console.WriteLine("Please enter your first digit");
+                string firstNumber1 = Console.ReadLine();
+                firstNumber = Convert.ToInt32(firstNumber1);
+                Console.WriteLine();
+                Console.WriteLine("Please enter your second digit");
+                string secondNumber2 = Console.ReadLine();
+                secondNumber = Convert.ToInt32(secondNumber2);
+                Console.WriteLine();
+                int sum = firstNumber - secondNumber;
+                Console.WriteLine("The result is " + sum.ToString());
+                Console.ReadKey();
             }
         }
     }
