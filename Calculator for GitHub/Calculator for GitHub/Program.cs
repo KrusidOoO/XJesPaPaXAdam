@@ -36,10 +36,10 @@ namespace Calculator_for_GitHub
                 secondNumber = Convert.ToInt32(secondNumber2);
                 Console.WriteLine();
                 int sum = firstNumber + secondNumber;
-                Console.WriteLine("The result is " + sum.ToString());
+                Console.WriteLine("The result is\n=======\n " + sum.ToString());
                 Console.ReadKey();
             }
-            if(mitvalg.KeyChar=='2')
+            if (mitvalg.KeyChar == '2')
             {
                 Console.Clear();
                 Console.WriteLine("You have now chosen to subtract two digits from eachother");
@@ -53,7 +53,7 @@ namespace Calculator_for_GitHub
                 secondNumber = Convert.ToInt32(secondNumber2);
                 Console.WriteLine();
                 int sum = firstNumber - secondNumber;
-                Console.WriteLine("The result is " + sum.ToString());
+                Console.WriteLine("The result is\n========\n " + sum.ToString());
                 Console.ReadKey();
             }
             if (mitvalg.KeyChar == '3')
@@ -70,8 +70,26 @@ namespace Calculator_for_GitHub
                 secondNumber = Convert.ToInt32(secondNumber2);
                 Console.WriteLine();
                 int sum = firstNumber * secondNumber;
-                Console.WriteLine("The result is " + sum.ToString());
+                Console.WriteLine("The result is: \n===========\n" + sum.ToString());
                 Console.ReadKey();
             }
+            if(mitvalg.KeyChar=='4')
+            {
+                Console.Clear();
+                Console.WriteLine("You have now chosen to divide two digits");
+                Console.WriteLine();
+                Console.WriteLine("Please enter your first digit");
+                string firstNumber1 = Console.ReadLine();
+                firstNumber = Convert.ToInt32(firstNumber1);
+                Console.WriteLine();
+                Console.WriteLine("Please enter your second digit");
+                string secondNumber2 = Console.ReadLine();
+                secondNumber = Convert.ToInt32(secondNumber2);
+                Console.WriteLine();
+                int sum = firstNumber / secondNumber;
+                Console.WriteLine("The result is: \n===========\n" + sum.ToString());
+                Console.ReadKey();
+            }
+        }
     }
 }
