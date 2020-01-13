@@ -13,7 +13,8 @@ namespace Calculator_for_GitHub
             int firstNumber = 0;
             int secondNumber = 0;
             ConsoleKeyInfo mitvalg;
-            Console.WriteLine("Hello there");
+            //Changed the hello message
+            Console.WriteLine("Hello there, from KrusidOoO");
             Console.WriteLine();
             Console.WriteLine("1. Add two numbers together");
             Console.WriteLine("2. Subtract two numbers");
