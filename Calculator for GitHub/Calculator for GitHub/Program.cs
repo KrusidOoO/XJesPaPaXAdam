@@ -10,11 +10,14 @@ namespace Calculator_for_GitHub
     {
         static void Main(string[] args)
         {
+            Console.Write("What is your name? ");
+            string name = Console.ReadLine();
+
             int firstNumber = 0;
             int secondNumber = 0;
             ConsoleKeyInfo mitvalg;
-            //changed le' hello message :)
-            Console.WriteLine("Hello there from Bjæf, KrusidOoO and Stubbeee");
+
+            Console.WriteLine("Hello there " + name + "");
             Console.WriteLine();
             Console.WriteLine("1. Add two numbers together");
             Console.WriteLine("2. Subtract two numbers");

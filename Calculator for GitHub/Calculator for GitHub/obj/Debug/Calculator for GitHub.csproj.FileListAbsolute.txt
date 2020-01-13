@@ -4,3 +4,9 @@ C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator fo
 C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.csprojAssemblyReference.cache
 C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.exe
 C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.pdb
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\bin\Debug\Calculator for GitHub.exe.config
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\bin\Debug\Calculator for GitHub.exe
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\bin\Debug\Calculator for GitHub.pdb
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.csprojAssemblyReference.cache
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.exe
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.pdb
