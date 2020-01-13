@@ -23,6 +23,8 @@ namespace Calculator_for_GitHub
             Console.WriteLine("2. Subtract two numbers");
             Console.WriteLine("3. Multiply two numbers");
             Console.WriteLine("4. Divide two numbers");
+
+            Console.WriteLine("6. Get a random number");
             Console.WriteLine("-----------------------");
             Console.WriteLine("Please enter the number of the action you wish to perform");
             mitvalg = Console.ReadKey(true);
@@ -92,6 +94,20 @@ namespace Calculator_for_GitHub
                 Console.WriteLine();
                 int sum = firstNumber / secondNumber;
                 Console.WriteLine("The result is: \n===========\n" + sum.ToString());
+                Console.ReadKey();
+            }
+            if(mitvalg.KeyChar=='6')
+            {
+                Console.Clear();
+                for (int i = 0; i<= 10; i++ ) 
+                {
+                    Random rnd = new Random();
+                    int number = rnd.Next(1, 100);
+                    Console.WriteLine(number);
+                }
+                Console.WriteLine("There u go");
+                Console.WriteLine("");
+                Console.WriteLine("Press any key to exit the application");
                 Console.ReadKey();
             }
         }
