@@ -4,3 +4,10 @@ C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator fo
 C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.csprojAssemblyReference.cache
 C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.exe
 C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.pdb
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\bin\Debug\Calculator for GitHub.exe.config
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\bin\Debug\Calculator for GitHub.exe
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\bin\Debug\Calculator for GitHub.pdb
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.csprojAssemblyReference.cache
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.csproj.CoreCompileInputs.cache
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.exe
+C:\Users\ViktorAdamczykCzachu\Desktop\Github\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.pdb
