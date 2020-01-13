@@ -14,7 +14,11 @@ namespace Calculator_for_GitHub
             int secondNumber = 0;
             ConsoleKeyInfo mitvalg;
             //changed le' hello message :)
+<<<<<<< Updated upstream
             Console.WriteLine("Hello there from Bjæf and KrusidOoO");
+=======
+            Console.WriteLine("Hello there from Bjæf, KrusidOoO and stupid");
+>>>>>>> Stashed changes
             Console.WriteLine();
             Console.WriteLine("1. Add two numbers together");
             Console.WriteLine("2. Subtract two numbers");
