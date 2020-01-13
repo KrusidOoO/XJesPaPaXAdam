@@ -12,12 +12,13 @@ namespace Calculator_for_GitHub
         {
             Console.Write("What is your name? ");
             string name = Console.ReadLine();
+            Console.Clear();
 
             double firstNumber = 0;
             double secondNumber = 0;
             ConsoleKeyInfo mitvalg;
 
-            Console.WriteLine("Hello there " + name + "");
+            Console.WriteLine("Hello there " + name + "great to meet you :)");
             Console.WriteLine();
             Console.WriteLine("1. Add two numbers together");
             Console.WriteLine("2. Subtract two numbers");
