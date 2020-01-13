@@ -17,6 +17,7 @@ namespace Calculator_for_GitHub
             double firstNumber = 0;
             double secondNumber = 0;
             ConsoleKeyInfo mitvalg;
+<<<<<<< HEAD
 
             Console.WriteLine("Hello there " + name + "great to meet you :)");
             Console.WriteLine();
@@ -28,14 +29,21 @@ namespace Calculator_for_GitHub
             Console.WriteLine("6. Get a random number");
             Console.WriteLine("-----------------------");
             Console.WriteLine("Please enter the number of the action you wish to perform");
+=======
+            Console.WriteLine("Hello there");
+            Console.WriteLine("1. Læg 2 tal sammen");
+            Console.WriteLine("2. Træk 2 tal fra hinanden");
+            Console.WriteLine("3. Gang 2 tal med hianden");
+            Console.WriteLine("4. Divider 2 tal med hinanden");
+>>>>>>> parent of e19da5b... Addition of the calculator completed
             mitvalg = Console.ReadKey(true);
             if (mitvalg.KeyChar == '1')
             {
-                Console.Clear();
                 Console.WriteLine("You have now chosen to add two digits together");
                 Console.WriteLine();
                 Console.WriteLine("Please enter your first digit");
                 string firstNumber1 = Console.ReadLine();
+<<<<<<< HEAD
                 firstNumber = Convert.ToDouble(firstNumber1);
                 Console.WriteLine();
                 Console.WriteLine("Please enter your second digit");
@@ -137,7 +145,16 @@ namespace Calculator_for_GitHub
                 Console.WriteLine("");
                 Console.WriteLine("Press any key to exit the application");
                 Console.ReadKey();
+=======
+                firstNumber = Convert.ToInt32(firstNumber1);
+                Console.WriteLine(firstNumber);
+                Console.WriteLine("Please enter your second digit");
+                string secondNumber2 = Console.ReadLine();
+                secondNumber = Convert.ToInt32(secondNumber2);
+                Console.WriteLine(secondNumber);
+>>>>>>> parent of e19da5b... Addition of the calculator completed
             }
+            Console.ReadKey();
         }
     }
 }
