@@ -13,8 +13,8 @@ namespace Calculator_for_GitHub
             Console.Write("What is your name? ");
             string name = Console.ReadLine();
 
-            int firstNumber = 0;
-            int secondNumber = 0;
+            double firstNumber = 0;
+            double secondNumber = 0;
             ConsoleKeyInfo mitvalg;
 
             Console.WriteLine("Hello there " + name + "");
@@ -23,7 +23,7 @@ namespace Calculator_for_GitHub
             Console.WriteLine("2. Subtract two numbers");
             Console.WriteLine("3. Multiply two numbers");
             Console.WriteLine("4. Divide two numbers");
-
+            Console.WriteLine("5. Get the power of two numbers");
             Console.WriteLine("6. Get a random number");
             Console.WriteLine("-----------------------");
             Console.WriteLine("Please enter the number of the action you wish to perform");
@@ -35,14 +35,16 @@ namespace Calculator_for_GitHub
                 Console.WriteLine();
                 Console.WriteLine("Please enter your first digit");
                 string firstNumber1 = Console.ReadLine();
-                firstNumber = Convert.ToInt32(firstNumber1);
+                firstNumber = Convert.ToDouble(firstNumber1);
                 Console.WriteLine();
                 Console.WriteLine("Please enter your second digit");
                 string secondNumber2 = Console.ReadLine();
-                secondNumber = Convert.ToInt32(secondNumber2);
+                secondNumber = Convert.ToDouble(secondNumber2);
                 Console.WriteLine();
-                int sum = firstNumber + secondNumber;
+                double sum = firstNumber + secondNumber;
                 Console.WriteLine("The result is\n=======\n " + sum.ToString());
+                Console.WriteLine();
+                Console.WriteLine("Press any key to exit the application");
                 Console.ReadKey();
             }
             if (mitvalg.KeyChar == '2')
@@ -52,14 +54,16 @@ namespace Calculator_for_GitHub
                 Console.WriteLine();
                 Console.WriteLine("Please enter your first digit");
                 string firstNumber1 = Console.ReadLine();
-                firstNumber = Convert.ToInt32(firstNumber1);
+                firstNumber = Convert.ToDouble(firstNumber1);
                 Console.WriteLine();
                 Console.WriteLine("Please enter your second digit");
                 string secondNumber2 = Console.ReadLine();
-                secondNumber = Convert.ToInt32(secondNumber2);
+                secondNumber = Convert.ToDouble(secondNumber2);
                 Console.WriteLine();
-                int sum = firstNumber - secondNumber;
+                double sum = firstNumber - secondNumber;
                 Console.WriteLine("The result is\n========\n " + sum.ToString());
+                Console.WriteLine();
+                Console.WriteLine("Press any key to exit the application");
                 Console.ReadKey();
             }
             if (mitvalg.KeyChar == '3')
@@ -69,14 +73,16 @@ namespace Calculator_for_GitHub
                 Console.WriteLine();
                 Console.WriteLine("Please enter your first digit");
                 string firstNumber1 = Console.ReadLine();
-                firstNumber = Convert.ToInt32(firstNumber1);
+                firstNumber = Convert.ToDouble(firstNumber1);
                 Console.WriteLine();
                 Console.WriteLine("Please enter your second digit");
                 string secondNumber2 = Console.ReadLine();
-                secondNumber = Convert.ToInt32(secondNumber2);
+                secondNumber = Convert.ToDouble(secondNumber2);
                 Console.WriteLine();
-                int sum = firstNumber * secondNumber;
+                double sum = firstNumber * secondNumber;
                 Console.WriteLine("The result is: \n===========\n" + sum.ToString());
+                Console.WriteLine();
+                Console.WriteLine("Press any key to exit the application");
                 Console.ReadKey();
             }
             if(mitvalg.KeyChar=='4')
@@ -86,14 +92,35 @@ namespace Calculator_for_GitHub
                 Console.WriteLine();
                 Console.WriteLine("Please enter your first digit");
                 string firstNumber1 = Console.ReadLine();
-                firstNumber = Convert.ToInt32(firstNumber1);
+                firstNumber = Convert.ToDouble(firstNumber1);
                 Console.WriteLine();
                 Console.WriteLine("Please enter your second digit");
                 string secondNumber2 = Console.ReadLine();
-                secondNumber = Convert.ToInt32(secondNumber2);
+                secondNumber = Convert.ToDouble(secondNumber2);
                 Console.WriteLine();
-                int sum = firstNumber / secondNumber;
+                double sum = firstNumber / secondNumber;
                 Console.WriteLine("The result is: \n===========\n" + sum.ToString());
+                Console.WriteLine();
+                Console.WriteLine("Press any key to exit the application");
+                Console.ReadKey();
+            }
+            if(mitvalg.KeyChar=='5')
+            {
+                Console.Clear();
+                Console.WriteLine("You have now chosen to get the power of two numbers");
+                Console.WriteLine();
+                Console.WriteLine("Please enter the first digit");
+                string firstNumber1 = Console.ReadLine();
+                firstNumber = Convert.ToInt32(firstNumber1);
+                Console.WriteLine();
+                Console.WriteLine("Please enter the second digit you want to add to the power of");
+                string secondNumber2 = Console.ReadLine();
+                secondNumber = Convert.ToDouble(secondNumber2);
+                Console.WriteLine();
+                double sum = Math.Pow(firstNumber,secondNumber);
+                Console.WriteLine("The result is: \n===========\n" + sum.ToString());
+                Console.WriteLine();
+                Console.WriteLine("Press any key to exit the application");
                 Console.ReadKey();
             }
             if(mitvalg.KeyChar=='6')
