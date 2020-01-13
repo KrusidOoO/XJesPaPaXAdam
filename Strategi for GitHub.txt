@@ -1,0 +1,6 @@
+Hvordan skal vi holde struktur i filer?
+Ved at lave branches og compare dem til andre gruppe medlemmers branches
+Hvad skal ligge i commit beskeder?
+kort beskrivelse af hvad man har ændret og måske endda refere til linjerne der er ændret
+Hvad er grunden til at vi vil branche?
+Holde bedre styr på vores versioner af en applikation, komme med ændringer og compare vores ændringer med hinanden før vi pusher til master branchen
