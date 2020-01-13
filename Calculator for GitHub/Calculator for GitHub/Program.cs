@@ -28,10 +28,10 @@ namespace Calculator_for_GitHub
             Console.WriteLine("6. Get a random number");
             Console.WriteLine("-----------------------");
             Console.WriteLine("Please enter the number of the action you wish to perform");
+
             mitvalg = Console.ReadKey(true);
             if (mitvalg.KeyChar == '1')
             {
-                Console.Clear();
                 Console.WriteLine("You have now chosen to add two digits together");
                 Console.WriteLine();
                 Console.WriteLine("Please enter your first digit");
@@ -138,6 +138,7 @@ namespace Calculator_for_GitHub
                 Console.WriteLine("Press any key to exit the application");
                 Console.ReadKey();
             }
+            Console.ReadKey();
         }
     }
 }
