@@ -10,17 +10,21 @@ namespace Calculator_for_GitHub
     {
         static void Main(string[] args)
         {
+            Console.Write("What is your name? ");
+            string name = Console.ReadLine();
+
             int firstNumber = 0;
             int secondNumber = 0;
             ConsoleKeyInfo mitvalg;
-            //changed le' hello message :)
-            Console.WriteLine("Hello there from Bjæf and KrusidOoO");
+
+            Console.WriteLine("Hello there " + name + "");
             Console.WriteLine();
             Console.WriteLine("1. Add two numbers together");
             Console.WriteLine("2. Subtract two numbers");
             Console.WriteLine("3. Multiply two numbers");
             Console.WriteLine("4. Divide two numbers");
             Console.WriteLine("5. Get the power of two numbers");
+            Console.WriteLine("6. Get a random number");
             Console.WriteLine("-----------------------");
             Console.WriteLine("Please enter the number of the action you wish to perform");
             mitvalg = Console.ReadKey(true);
@@ -107,6 +111,20 @@ namespace Calculator_for_GitHub
                 Console.WriteLine();
                 int sum = firstNumber ^ secondNumber;
                 Console.WriteLine("The result is: \n===========\n" + sum.ToString());
+                Console.ReadKey();
+            }
+            if(mitvalg.KeyChar=='6')
+            {
+                Console.Clear();
+                for (int i = 0; i<= 10; i++ ) 
+                {
+                    Random rnd = new Random();
+                    int number = rnd.Next(1, 100);
+                    Console.WriteLine(number);
+                }
+                Console.WriteLine("There u go");
+                Console.WriteLine("");
+                Console.WriteLine("Press any key to exit the application");
                 Console.ReadKey();
             }
         }
