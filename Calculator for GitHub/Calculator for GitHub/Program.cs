@@ -19,6 +19,7 @@ namespace Calculator_for_GitHub
             ConsoleKeyInfo mitvalg;
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
             Console.WriteLine("Hello there " + name + "great to meet you :)");
             Console.WriteLine();
@@ -33,12 +34,17 @@ namespace Calculator_for_GitHub
 =======
 =======
 >>>>>>> parent of e19da5b... Addition of the calculator completed
+=======
+>>>>>>> parent of e19da5b... Addition of the calculator completed
             Console.WriteLine("Hello there");
             Console.WriteLine("1. Læg 2 tal sammen");
             Console.WriteLine("2. Træk 2 tal fra hinanden");
             Console.WriteLine("3. Gang 2 tal med hianden");
             Console.WriteLine("4. Divider 2 tal med hinanden");
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of e19da5b... Addition of the calculator completed
+=======
 >>>>>>> parent of e19da5b... Addition of the calculator completed
 =======
 >>>>>>> parent of e19da5b... Addition of the calculator completed
@@ -49,6 +55,7 @@ namespace Calculator_for_GitHub
                 Console.WriteLine();
                 Console.WriteLine("Please enter your first digit");
                 string firstNumber1 = Console.ReadLine();
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
                 firstNumber = Convert.ToDouble(firstNumber1);
@@ -152,6 +159,14 @@ namespace Calculator_for_GitHub
                 Console.WriteLine("");
                 Console.WriteLine("Press any key to exit the application");
                 Console.ReadKey();
+=======
+                firstNumber = Convert.ToInt32(firstNumber1);
+                Console.WriteLine(firstNumber);
+                Console.WriteLine("Please enter your second digit");
+                string secondNumber2 = Console.ReadLine();
+                secondNumber = Convert.ToInt32(secondNumber2);
+                Console.WriteLine(secondNumber);
+>>>>>>> parent of e19da5b... Addition of the calculator completed
 =======
                 firstNumber = Convert.ToInt32(firstNumber1);
                 Console.WriteLine(firstNumber);
