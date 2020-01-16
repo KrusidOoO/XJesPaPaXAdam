@@ -123,7 +123,7 @@ namespace Calculator_for_GitHub
                 Console.WriteLine("Press any key to exit the application");
                 Console.ReadKey();
             }
-            if(mitvalg.KeyChar=='6')
+            if(mitvalg.KeyChar=='6') //Når man vælger 6 i menuen giver koden nedenunder et tilfældigt nummer mellem 1 og 100.
             {
                 Console.Clear();
                 for (int i = 0; i<= 10; i++ ) 
