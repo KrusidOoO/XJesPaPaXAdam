@@ -17,3 +17,4 @@ C:\Users\ViktorAdamczykCzachu\Desktop\Github\XJesPaPaXAdam\Calculator for GitHub
 C:\Users\ViktorAdamczykCzachu\Desktop\Github\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.csproj.CoreCompileInputs.cache
 C:\Users\ViktorAdamczykCzachu\Desktop\Github\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.exe
 C:\Users\ViktorAdamczykCzachu\Desktop\Github\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.pdb
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\bin\Debug\Calculator for GitHub.xml
