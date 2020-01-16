@@ -1,0 +1,25 @@
+Stikord for dokumentation af programudvikling osv
+
+1. Hvad er formålet ved dokumentation?
+Andreas:
+- Det er at holde styr på hvad der foregår i et projekt og man kan bedre forklare, og referere, sine ændringer til sine gruppekammerater.
+Jesper:
+- Så folk ved hvad man laver.
+Viktor:
+- Så man kan holde styr på sine ting.
+
+2. Hvordan vil vi gribe det an hvis i skulle beskrive et program og begrunde jeres valg?
+Andreas:
+- Anvise til linjer i programmet hvor man har lavet ændringer, og prøve at forklare så godt som muligt, med tekst, hvad disse ændringer indebærer.
+Jesper:
+- Anvise til linjer i programmet hvor man har lavet ændringer, og prøve at forklare så godt som muligt, med tekst, hvad disse ændringer indebærer.
+Viktor:
+- Anvise til linjer i programmet hvor man har lavet ændringer, og prøve at forklare så godt som muligt, med tekst, hvad disse ændringer indebærer.
+
+3. Hvilke værktøjer vil vi bruge?
+Andreas:
+- GitHub Desktop's description system, derudover kommentarer i selve programmet ved ændringerne, måske endda også en seperat fil til hver branch som en "change log".
+Jesper:
+- GitHub Desktop's description, kommentarer i programmet, Word.exe.
+Viktor:
+- GitHub Desktop's description system, derudover kommentarer i selve programmet ved ændringerne.
