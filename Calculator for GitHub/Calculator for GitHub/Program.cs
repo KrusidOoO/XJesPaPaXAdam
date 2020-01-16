@@ -82,6 +82,7 @@ namespace Calculator_for_GitHub
             }
             if (mitvalg.KeyChar == '3')
             {
+                //Console.Clear(); clears the console so we have a fresh page to look at
                 Console.Clear();
                 Console.WriteLine("You have now chosen to multiply two digits");
                 Console.WriteLine();
@@ -105,6 +106,7 @@ namespace Calculator_for_GitHub
             }
             if(mitvalg.KeyChar=='4')
             {
+                //Console.Clear(); clears the console so we have a fresh page to look at
                 Console.Clear();
                 Console.WriteLine("You have now chosen to divide two digits");
                 Console.WriteLine();
@@ -128,6 +130,7 @@ namespace Calculator_for_GitHub
             }
             if(mitvalg.KeyChar=='5')
             {
+                //Console.Clear(); clears the console so we have a fresh page to look at
                 Console.Clear();
                 Console.WriteLine("You have now chosen to get the power of two numbers");
                 Console.WriteLine();
