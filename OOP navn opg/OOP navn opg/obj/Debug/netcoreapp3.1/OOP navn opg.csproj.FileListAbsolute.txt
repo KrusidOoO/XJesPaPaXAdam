@@ -1,0 +1,11 @@
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP navn opg\OOP navn opg\bin\Debug\netcoreapp3.1\OOP navn opg.exe
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP navn opg\OOP navn opg\bin\Debug\netcoreapp3.1\OOP navn opg.deps.json
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP navn opg\OOP navn opg\bin\Debug\netcoreapp3.1\OOP navn opg.runtimeconfig.json
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP navn opg\OOP navn opg\bin\Debug\netcoreapp3.1\OOP navn opg.runtimeconfig.dev.json
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP navn opg\OOP navn opg\bin\Debug\netcoreapp3.1\OOP navn opg.dll
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP navn opg\OOP navn opg\bin\Debug\netcoreapp3.1\OOP navn opg.pdb
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP navn opg\OOP navn opg\obj\Debug\netcoreapp3.1\OOP navn opg.csprojAssemblyReference.cache
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP navn opg\OOP navn opg\obj\Debug\netcoreapp3.1\OOP navn opg.AssemblyInfoInputs.cache
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP navn opg\OOP navn opg\obj\Debug\netcoreapp3.1\OOP navn opg.AssemblyInfo.cs
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP navn opg\OOP navn opg\obj\Debug\netcoreapp3.1\OOP navn opg.dll
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP navn opg\OOP navn opg\obj\Debug\netcoreapp3.1\OOP navn opg.pdb

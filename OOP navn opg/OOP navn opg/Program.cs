@@ -6,7 +6,9 @@ namespace OOP_navn_opg
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hej");
+            Console.WriteLine("Jesper");
+            Console.ReadKey();
         }
     }
 }
