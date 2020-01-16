@@ -27,42 +27,56 @@ namespace Calculator_for_GitHub
             Console.WriteLine("6. Get a random number");
             Console.WriteLine("-----------------------");
             Console.WriteLine("Please enter the number of the action you wish to perform");
-
+            //"mitvalg" makes sure that it reads a specific key that you press
             mitvalg = Console.ReadKey(true);
+            //this if statement starts the plus'ing of two numbers
             if (mitvalg.KeyChar == '1')
             {
+                //Console.Clear(); clears the console so we have a fresh page to look at
+                Console.Clear();
                 Console.WriteLine("You have now chosen to add two digits together");
                 Console.WriteLine();
                 Console.WriteLine("Please enter your first digit");
+                //Here we pick the first number we choose to add together, we do so by reading the line of the input and define it as "firstNumber1"
                 string firstNumber1 = Console.ReadLine();
+                //Here we convert the string to a double
                 firstNumber = Convert.ToDouble(firstNumber1);
                 Console.WriteLine();
                 Console.WriteLine("Please enter your second digit");
                 string secondNumber2 = Console.ReadLine();
                 secondNumber = Convert.ToDouble(secondNumber2);
                 Console.WriteLine();
+                //Here we add the two doubles together to get a sum
                 double sum = firstNumber + secondNumber;
+                //Here we write out the result, by converting our double "sum" to a string
                 Console.WriteLine("The result is\n=======\n " + sum.ToString());
                 Console.WriteLine();
+                //Since we don't have a loop, the if statement will just exit out of the application
                 Console.WriteLine("Press any key to exit the application");
                 Console.ReadKey();
             }
             if (mitvalg.KeyChar == '2')
             {
+                //Console.Clear(); clears the console so we have a fresh page to look at
                 Console.Clear();
                 Console.WriteLine("You have now chosen to subtract two digits from eachother");
                 Console.WriteLine();
                 Console.WriteLine("Please enter your first digit");
+                //Here we pick the first number we choose to subtract, we do so by reading the line of the input and define it as "firstNumber1"
                 string firstNumber1 = Console.ReadLine();
+                //Here we convert the string to a double
                 firstNumber = Convert.ToDouble(firstNumber1);
                 Console.WriteLine();
                 Console.WriteLine("Please enter your second digit");
                 string secondNumber2 = Console.ReadLine();
                 secondNumber = Convert.ToDouble(secondNumber2);
                 Console.WriteLine();
+                //Here we subract the two doubles to get a sum
                 double sum = firstNumber - secondNumber;
+                //Here we write out the result, by converting our double "sum" to a string
                 Console.WriteLine("The result is\n========\n " + sum.ToString());
                 Console.WriteLine();
+                //Since we don't have a loop, the if statement will just exit out of the application
                 Console.WriteLine("Press any key to exit the application");
                 Console.ReadKey();
             }
@@ -72,6 +86,7 @@ namespace Calculator_for_GitHub
                 Console.WriteLine("You have now chosen to multiply two digits");
                 Console.WriteLine();
                 Console.WriteLine("Please enter your first digit");
+                //Here we pick the first number we choose to subtract, we do so by reading the line of the input and define it as "firstNumber1"
                 string firstNumber1 = Console.ReadLine();
                 firstNumber = Convert.ToDouble(firstNumber1);
                 Console.WriteLine();
@@ -79,9 +94,12 @@ namespace Calculator_for_GitHub
                 string secondNumber2 = Console.ReadLine();
                 secondNumber = Convert.ToDouble(secondNumber2);
                 Console.WriteLine();
+                //Here we multiply the two doubles to get a sum
                 double sum = firstNumber * secondNumber;
+                //Here we write out the result, by converting our double "sum" to a string
                 Console.WriteLine("The result is: \n===========\n" + sum.ToString());
                 Console.WriteLine();
+                //Since we don't have a loop, the if statement will just exit out of the application
                 Console.WriteLine("Press any key to exit the application");
                 Console.ReadKey();
             }
@@ -91,6 +109,7 @@ namespace Calculator_for_GitHub
                 Console.WriteLine("You have now chosen to divide two digits");
                 Console.WriteLine();
                 Console.WriteLine("Please enter your first digit");
+                //Here we pick the first number we choose to subtract, we do so by reading the line of the input and define it as "firstNumber1"
                 string firstNumber1 = Console.ReadLine();
                 firstNumber = Convert.ToDouble(firstNumber1);
                 Console.WriteLine();
@@ -98,9 +117,12 @@ namespace Calculator_for_GitHub
                 string secondNumber2 = Console.ReadLine();
                 secondNumber = Convert.ToDouble(secondNumber2);
                 Console.WriteLine();
+                //Here we divide the two doubles to get a sum
                 double sum = firstNumber / secondNumber;
+                //Here we write out the result, by converting our double "sum" to a string
                 Console.WriteLine("The result is: \n===========\n" + sum.ToString());
                 Console.WriteLine();
+                //Since we don't have a loop, the if statement will just exit out of the application
                 Console.WriteLine("Press any key to exit the application");
                 Console.ReadKey();
             }
@@ -110,6 +132,7 @@ namespace Calculator_for_GitHub
                 Console.WriteLine("You have now chosen to get the power of two numbers");
                 Console.WriteLine();
                 Console.WriteLine("Please enter the first digit");
+                //Here we pick the first number we choose to subtract, we do so by reading the line of the input and define it as "firstNumber1"
                 string firstNumber1 = Console.ReadLine();
                 firstNumber = Convert.ToInt32(firstNumber1);
                 Console.WriteLine();
@@ -117,9 +140,12 @@ namespace Calculator_for_GitHub
                 string secondNumber2 = Console.ReadLine();
                 secondNumber = Convert.ToDouble(secondNumber2);
                 Console.WriteLine();
+                //Here we get to the power of the two doubles to get a sum
                 double sum = Math.Pow(firstNumber,secondNumber);
+                //Here we write out the result, by converting our double "sum" to a string
                 Console.WriteLine("The result is: \n===========\n" + sum.ToString());
                 Console.WriteLine();
+                //Since we don't have a loop, the if statement will just exit out of the application
                 Console.WriteLine("Press any key to exit the application");
                 Console.ReadKey();
             }
