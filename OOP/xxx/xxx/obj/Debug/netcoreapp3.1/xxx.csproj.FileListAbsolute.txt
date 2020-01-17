@@ -9,3 +9,14 @@ C:\Users\JesperBertelsen\source\repos\xxx\xxx\obj\Debug\netcoreapp3.1\xxx.Assemb
 C:\Users\JesperBertelsen\source\repos\xxx\xxx\obj\Debug\netcoreapp3.1\xxx.AssemblyInfo.cs
 C:\Users\JesperBertelsen\source\repos\xxx\xxx\obj\Debug\netcoreapp3.1\xxx.dll
 C:\Users\JesperBertelsen\source\repos\xxx\xxx\obj\Debug\netcoreapp3.1\xxx.pdb
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\xxx\xxx\bin\Debug\netcoreapp3.1\xxx.exe
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\xxx\xxx\bin\Debug\netcoreapp3.1\xxx.deps.json
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\xxx\xxx\bin\Debug\netcoreapp3.1\xxx.runtimeconfig.json
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\xxx\xxx\bin\Debug\netcoreapp3.1\xxx.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\xxx\xxx\bin\Debug\netcoreapp3.1\xxx.dll
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\xxx\xxx\bin\Debug\netcoreapp3.1\xxx.pdb
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\xxx\xxx\obj\Debug\netcoreapp3.1\xxx.csprojAssemblyReference.cache
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\xxx\xxx\obj\Debug\netcoreapp3.1\xxx.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\xxx\xxx\obj\Debug\netcoreapp3.1\xxx.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\xxx\xxx\obj\Debug\netcoreapp3.1\xxx.dll
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\xxx\xxx\obj\Debug\netcoreapp3.1\xxx.pdb

@@ -9,3 +9,14 @@ C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Foreach sange\Foreach sang
 C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Foreach sange\Foreach sange\obj\Debug\netcoreapp3.1\Foreach sange.AssemblyInfo.cs
 C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Foreach sange\Foreach sange\obj\Debug\netcoreapp3.1\Foreach sange.dll
 C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Foreach sange\Foreach sange\obj\Debug\netcoreapp3.1\Foreach sange.pdb
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Foreach sange\Foreach sange\bin\Debug\netcoreapp3.1\Foreach sange.exe
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Foreach sange\Foreach sange\bin\Debug\netcoreapp3.1\Foreach sange.deps.json
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Foreach sange\Foreach sange\bin\Debug\netcoreapp3.1\Foreach sange.runtimeconfig.json
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Foreach sange\Foreach sange\bin\Debug\netcoreapp3.1\Foreach sange.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Foreach sange\Foreach sange\bin\Debug\netcoreapp3.1\Foreach sange.dll
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Foreach sange\Foreach sange\bin\Debug\netcoreapp3.1\Foreach sange.pdb
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Foreach sange\Foreach sange\obj\Debug\netcoreapp3.1\Foreach sange.csprojAssemblyReference.cache
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Foreach sange\Foreach sange\obj\Debug\netcoreapp3.1\Foreach sange.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Foreach sange\Foreach sange\obj\Debug\netcoreapp3.1\Foreach sange.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Foreach sange\Foreach sange\obj\Debug\netcoreapp3.1\Foreach sange.dll
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Foreach sange\Foreach sange\obj\Debug\netcoreapp3.1\Foreach sange.pdb

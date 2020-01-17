@@ -1,0 +1,11 @@
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Logiske Operatorer\bin\Debug\netcoreapp3.1\Logiske Operatorer.exe
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Logiske Operatorer\bin\Debug\netcoreapp3.1\Logiske Operatorer.deps.json
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Logiske Operatorer\bin\Debug\netcoreapp3.1\Logiske Operatorer.runtimeconfig.json
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Logiske Operatorer\bin\Debug\netcoreapp3.1\Logiske Operatorer.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Logiske Operatorer\bin\Debug\netcoreapp3.1\Logiske Operatorer.dll
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Logiske Operatorer\bin\Debug\netcoreapp3.1\Logiske Operatorer.pdb
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Logiske Operatorer\obj\Debug\netcoreapp3.1\Logiske Operatorer.csprojAssemblyReference.cache
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Logiske Operatorer\obj\Debug\netcoreapp3.1\Logiske Operatorer.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Logiske Operatorer\obj\Debug\netcoreapp3.1\Logiske Operatorer.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Logiske Operatorer\obj\Debug\netcoreapp3.1\Logiske Operatorer.dll
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\OOP\Logiske Operatorer\obj\Debug\netcoreapp3.1\Logiske Operatorer.pdb

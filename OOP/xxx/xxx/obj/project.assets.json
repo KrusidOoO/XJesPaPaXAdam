@@ -8,24 +8,27 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\JesperBertelsen\\.nuget\\packages\\": {},
+    "C:\\Users\\Bruger\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JesperBertelsen\\source\\repos\\xxx\\xxx\\xxx.csproj",
+      "projectUniqueName": "C:\\Users\\Bruger\\Desktop\\GitHub\\XJesPaPaXAdam\\OOP\\xxx\\xxx\\xxx.csproj",
       "projectName": "xxx",
-      "projectPath": "C:\\Users\\JesperBertelsen\\source\\repos\\xxx\\xxx\\xxx.csproj",
-      "packagesPath": "C:\\Users\\JesperBertelsen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JesperBertelsen\\source\\repos\\xxx\\xxx\\obj\\",
+      "projectPath": "C:\\Users\\Bruger\\Desktop\\GitHub\\XJesPaPaXAdam\\OOP\\xxx\\xxx\\xxx.csproj",
+      "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bruger\\Desktop\\GitHub\\XJesPaPaXAdam\\OOP\\xxx\\xxx\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\JesperBertelsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
