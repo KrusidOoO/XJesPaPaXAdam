@@ -19,3 +19,11 @@ C:\Users\ViktorAdamczykCzachu\Desktop\Github\XJesPaPaXAdam\Calculator for GitHub
 C:\Users\ViktorAdamczykCzachu\Desktop\Github\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.pdb
 C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\bin\Debug\Calculator for GitHub.xml
 C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Calculator for GitHub\Calculator for GitHub\bin\Debug\Program.cs
+E:\Work\GitHub\XJesPaPaXAdam\Versionering og Dokumentation\Calculator for GitHub\Calculator for GitHub\bin\Debug\Program.cs
+E:\Work\GitHub\XJesPaPaXAdam\Versionering og Dokumentation\Calculator for GitHub\Calculator for GitHub\bin\Debug\Calculator for GitHub.exe.config
+E:\Work\GitHub\XJesPaPaXAdam\Versionering og Dokumentation\Calculator for GitHub\Calculator for GitHub\bin\Debug\Calculator for GitHub.xml
+E:\Work\GitHub\XJesPaPaXAdam\Versionering og Dokumentation\Calculator for GitHub\Calculator for GitHub\bin\Debug\Calculator for GitHub.exe
+E:\Work\GitHub\XJesPaPaXAdam\Versionering og Dokumentation\Calculator for GitHub\Calculator for GitHub\bin\Debug\Calculator for GitHub.pdb
+E:\Work\GitHub\XJesPaPaXAdam\Versionering og Dokumentation\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.csprojAssemblyReference.cache
+E:\Work\GitHub\XJesPaPaXAdam\Versionering og Dokumentation\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.exe
+E:\Work\GitHub\XJesPaPaXAdam\Versionering og Dokumentation\Calculator for GitHub\Calculator for GitHub\obj\Debug\Calculator for GitHub.pdb

@@ -21,7 +21,9 @@ namespace Calculator_for_GitHub
                 bool LoginOK = false;
                 int forsoeg = 0;
                 string name;
+                string adgangskode;
                 String[] brugernavne = { "Andreas", "Jesper", "Viktor" };
+                String[] adgangskoder = { "1234", "4321", "12345" };
                 double firstNumber;
                 double secondNumber;
 
@@ -31,9 +33,11 @@ namespace Calculator_for_GitHub
                     forsoeg++;
                     Console.Write("What is your name? ");//Kommer med en besked der beder dig om at skrive dit navn
                     name = Console.ReadLine();//Laver en string som skal indeholde navnet og læse navnet som man har skrevet
+                    Console.Write("What is your password? ");
+                    adgangskode = Console.ReadLine();
                     for (int i = 0; i < 3; i++)
                     {
-                        if (name == brugernavne[i])
+                        if (name == brugernavne[i] && adgangskode == adgangskoder[i])
                             LoginOK = true;
                     }
                 } while (forsoeg < 3 && !LoginOK);
