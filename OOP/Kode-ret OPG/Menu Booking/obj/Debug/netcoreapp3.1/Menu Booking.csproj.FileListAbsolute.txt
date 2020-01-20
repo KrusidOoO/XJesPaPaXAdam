@@ -9,3 +9,14 @@ E:\Work\GitHub\XJesPaPaXAdam\OOP\Menu Booking\obj\Debug\netcoreapp3.1\Menu Booki
 E:\Work\GitHub\XJesPaPaXAdam\OOP\Menu Booking\obj\Debug\netcoreapp3.1\Menu Booking.AssemblyInfo.cs
 E:\Work\GitHub\XJesPaPaXAdam\OOP\Menu Booking\obj\Debug\netcoreapp3.1\Menu Booking.dll
 E:\Work\GitHub\XJesPaPaXAdam\OOP\Menu Booking\obj\Debug\netcoreapp3.1\Menu Booking.pdb
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP\Kode-ret OPG\Menu Booking\bin\Debug\netcoreapp3.1\Menu Booking.exe
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP\Kode-ret OPG\Menu Booking\bin\Debug\netcoreapp3.1\Menu Booking.deps.json
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP\Kode-ret OPG\Menu Booking\bin\Debug\netcoreapp3.1\Menu Booking.runtimeconfig.json
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP\Kode-ret OPG\Menu Booking\bin\Debug\netcoreapp3.1\Menu Booking.runtimeconfig.dev.json
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP\Kode-ret OPG\Menu Booking\bin\Debug\netcoreapp3.1\Menu Booking.dll
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP\Kode-ret OPG\Menu Booking\bin\Debug\netcoreapp3.1\Menu Booking.pdb
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP\Kode-ret OPG\Menu Booking\obj\Debug\netcoreapp3.1\Menu Booking.csprojAssemblyReference.cache
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP\Kode-ret OPG\Menu Booking\obj\Debug\netcoreapp3.1\Menu Booking.AssemblyInfoInputs.cache
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP\Kode-ret OPG\Menu Booking\obj\Debug\netcoreapp3.1\Menu Booking.AssemblyInfo.cs
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP\Kode-ret OPG\Menu Booking\obj\Debug\netcoreapp3.1\Menu Booking.dll
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\OOP\Kode-ret OPG\Menu Booking\obj\Debug\netcoreapp3.1\Menu Booking.pdb

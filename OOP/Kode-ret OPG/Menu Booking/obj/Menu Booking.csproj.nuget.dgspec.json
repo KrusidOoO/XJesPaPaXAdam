@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Work\\GitHub\\XJesPaPaXAdam\\OOP\\Menu Booking\\Menu Booking.csproj": {}
+    "C:\\Users\\JesperBertelsen\\Desktop\\GitHub\\XJesPaPaXAdam\\OOP\\Kode-ret OPG\\Menu Booking\\Menu Booking.csproj": {}
   },
   "projects": {
-    "E:\\Work\\GitHub\\XJesPaPaXAdam\\OOP\\Menu Booking\\Menu Booking.csproj": {
+    "C:\\Users\\JesperBertelsen\\Desktop\\GitHub\\XJesPaPaXAdam\\OOP\\Kode-ret OPG\\Menu Booking\\Menu Booking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Work\\GitHub\\XJesPaPaXAdam\\OOP\\Menu Booking\\Menu Booking.csproj",
+        "projectUniqueName": "C:\\Users\\JesperBertelsen\\Desktop\\GitHub\\XJesPaPaXAdam\\OOP\\Kode-ret OPG\\Menu Booking\\Menu Booking.csproj",
         "projectName": "Menu Booking",
-        "projectPath": "E:\\Work\\GitHub\\XJesPaPaXAdam\\OOP\\Menu Booking\\Menu Booking.csproj",
-        "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "E:\\Work\\GitHub\\XJesPaPaXAdam\\OOP\\Menu Booking\\obj\\",
+        "projectPath": "C:\\Users\\JesperBertelsen\\Desktop\\GitHub\\XJesPaPaXAdam\\OOP\\Kode-ret OPG\\Menu Booking\\Menu Booking.csproj",
+        "packagesPath": "C:\\Users\\JesperBertelsen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JesperBertelsen\\Desktop\\GitHub\\XJesPaPaXAdam\\OOP\\Kode-ret OPG\\Menu Booking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JesperBertelsen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
