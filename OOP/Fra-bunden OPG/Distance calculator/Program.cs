@@ -18,7 +18,7 @@ namespace Distance_calculator
             int LegoPrMeter = 125;
             Console.Clear();
             Console.WriteLine("Your travelled distance is: " + DC.DistanceInLegos(StartP,EndP,LegoPrMeter)+ " 2x4 Lego Bricks");
-            Console.WriteLine("Or if you want it in meters, then it is " + DC.distance(StartP, EndP)+ " Meters");
+            Console.WriteLine("Or if you want it in meters, then it is " + Convert.ToInt64(DC.distance(StartP, EndP))+ " Meters");
             Console.ReadKey();
         }
     }
