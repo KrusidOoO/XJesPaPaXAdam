@@ -1,0 +1,11 @@
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Grundlæggende Programmering\SimpleProgrammingProblems\bin\Debug\netcoreapp3.1\SimpleProgrammingProblems.exe
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Grundlæggende Programmering\SimpleProgrammingProblems\bin\Debug\netcoreapp3.1\SimpleProgrammingProblems.deps.json
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Grundlæggende Programmering\SimpleProgrammingProblems\bin\Debug\netcoreapp3.1\SimpleProgrammingProblems.runtimeconfig.json
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Grundlæggende Programmering\SimpleProgrammingProblems\bin\Debug\netcoreapp3.1\SimpleProgrammingProblems.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Grundlæggende Programmering\SimpleProgrammingProblems\bin\Debug\netcoreapp3.1\SimpleProgrammingProblems.dll
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Grundlæggende Programmering\SimpleProgrammingProblems\bin\Debug\netcoreapp3.1\SimpleProgrammingProblems.pdb
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Grundlæggende Programmering\SimpleProgrammingProblems\obj\Debug\netcoreapp3.1\SimpleProgrammingProblems.csprojAssemblyReference.cache
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Grundlæggende Programmering\SimpleProgrammingProblems\obj\Debug\netcoreapp3.1\SimpleProgrammingProblems.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Grundlæggende Programmering\SimpleProgrammingProblems\obj\Debug\netcoreapp3.1\SimpleProgrammingProblems.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Grundlæggende Programmering\SimpleProgrammingProblems\obj\Debug\netcoreapp3.1\SimpleProgrammingProblems.dll
+C:\Users\Bruger\Desktop\GitHub\XJesPaPaXAdam\Grundlæggende Programmering\SimpleProgrammingProblems\obj\Debug\netcoreapp3.1\SimpleProgrammingProblems.pdb
