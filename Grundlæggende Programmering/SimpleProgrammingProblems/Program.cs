@@ -12,6 +12,8 @@ namespace SimpleProgrammingProblems
 
             string name = Console.ReadLine();
 
+            //Console.WriteLine("Hello " + name);
+
             if(name=="Alice"||name=="Bob")
             {
                 Console.Write("Hello " + name);
@@ -83,7 +85,7 @@ namespace SimpleProgrammingProblems
             }
             if (k > 5)
                 Console.WriteLine("You ran out of tries, better luck next time!");
-            else if (k < 5)
+            else if (k ==5)
                 Console.WriteLine("");
 
 
