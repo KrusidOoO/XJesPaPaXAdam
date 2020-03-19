@@ -1,0 +1,18 @@
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\bin\Debug\netcoreapp3.1\SQL projekt.exe
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\obj\Debug\netcoreapp3.1\SQL projekt.csprojAssemblyReference.cache
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\obj\Debug\netcoreapp3.1\SQL projekt.AssemblyInfoInputs.cache
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\obj\Debug\netcoreapp3.1\SQL projekt.AssemblyInfo.cs
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\bin\Debug\netcoreapp3.1\SQL projekt.deps.json
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\bin\Debug\netcoreapp3.1\SQL projekt.runtimeconfig.json
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\bin\Debug\netcoreapp3.1\SQL projekt.runtimeconfig.dev.json
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\bin\Debug\netcoreapp3.1\SQL projekt.dll
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\bin\Debug\netcoreapp3.1\SQL projekt.pdb
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\obj\Debug\netcoreapp3.1\SQL projekt.csproj.CopyComplete
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\obj\Debug\netcoreapp3.1\SQL projekt.dll
+C:\Users\JesperBertelsen\Desktop\GitHub\XJesPaPaXAdam\Database\SQL projekt\obj\Debug\netcoreapp3.1\SQL projekt.pdb
